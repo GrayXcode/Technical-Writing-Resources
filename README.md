@@ -69,7 +69,11 @@ When deciding how to create content, it is important to pay attention to some co
 
 ### Tools
 
-**Produtivity and Content Planning**
+```diff
+- **Produtivity and Content Planning**
++ **Productivity and Content Planning**
+```
+
 
    * [How I use Notion for my Article and Content Ideas](https://www.youtube.com/watch?v=yxbAX6vTUgc) By Dillion Megida.
    * [Feedly](https://feedly.com/i/welcome) lets you get the news you want all in one place.
